@@ -7,7 +7,7 @@ Algunos ejemplos de visualización de datos que fueron surgiendo en proyectos va
 ![image](https://github.com/user-attachments/assets/462a4aed-95fd-4f34-9739-a2b5fbcc6d46)
 
 - Ajuste de un modelo no lineal para estimar parámetros
-- 
+  
 ![image](https://github.com/user-attachments/assets/7a68b624-29e4-4b72-a66c-7dbc025df0ac)
 ![image](https://github.com/user-attachments/assets/d1c53564-8fc0-416a-acb0-4d6bd53bb583)
 
@@ -21,7 +21,7 @@ Algunos ejemplos de visualización de datos que fueron surgiendo en proyectos va
 -Extracción de picos en un oscilador amortiguado para extraer su envolvente
 ![image](https://github.com/user-attachments/assets/ff7a8da6-3036-4fb6-b7b9-c71fa1b40130)
 
--Boxplots para datus agrupados
+-Boxplots para datos agrupados
 ![image](https://github.com/user-attachments/assets/25af6da9-3946-4c6f-a617-447744a53949)
 
 -Gráfico para el congreso de Acústica 2023
@@ -62,18 +62,22 @@ Algunos ejemplos de visualización de datos que fueron surgiendo en proyectos va
 ![pitch tracking](https://github.com/user-attachments/assets/64e323a8-04c7-4d8e-b1c2-f9601139c6fa)
 
 -Precio en el tiempo 
+
 ![Precio](https://github.com/user-attachments/assets/9698c6a5-f6dc-46ac-a2a0-0dbadf006530)
 
 -Barras
+
 ![Barras](https://github.com/user-attachments/assets/f73f0f52-340e-49ba-b79a-4ffa54b2db61)
 
 -Deconvolucion
+
 ![H(s) room](https://github.com/user-attachments/assets/a2c166b1-6b80-4c86-bdd0-a6600142a623)
 
 -Integracion de una serie de tiempo
+
 ![curva decay](https://github.com/user-attachments/assets/04224d94-763d-47ed-9af9-ce64cf6ebbeb)
 
--
+
 
 
 
