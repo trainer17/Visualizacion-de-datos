@@ -1,5 +1,5 @@
 # Visualizacion-de-datos
-Algunos ejemplos de visualización de datos sacados de contexto que fueron surgiendo en proyectos recientes (En su mayoría 2024)
+Algunos ejemplos de visualización de datos sacados de contexto que fueron surgiendo en proyectos recientes (en su mayoría la segunda mitad de 2024)
 
 
 
