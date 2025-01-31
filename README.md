@@ -55,4 +55,25 @@ Algunos ejemplos de visualización de datos que fueron surgiendo en proyectos va
 -Transformadas varias
 ![Hilbert 1](https://github.com/user-attachments/assets/f80e5e03-719f-4c71-af89-1eccbc0ad536)
 
+-Extracción de picos en serie de tiempo
+![Picos 2](https://github.com/user-attachments/assets/fb83cdc6-97b1-41f8-b25e-14933d7ab1e3)
+
+-Pitch tracking
+![pitch tracking](https://github.com/user-attachments/assets/64e323a8-04c7-4d8e-b1c2-f9601139c6fa)
+
+-Precio en el tiempo 
+![Precio](https://github.com/user-attachments/assets/9698c6a5-f6dc-46ac-a2a0-0dbadf006530)
+
+-Barras
+![Barras](https://github.com/user-attachments/assets/f73f0f52-340e-49ba-b79a-4ffa54b2db61)
+
+-Deconvolucion
+![H(s) room](https://github.com/user-attachments/assets/a2c166b1-6b80-4c86-bdd0-a6600142a623)
+
+-Integracion de una serie de tiempo
+![curva decay](https://github.com/user-attachments/assets/04224d94-763d-47ed-9af9-ce64cf6ebbeb)
+
+-
+
+
 
