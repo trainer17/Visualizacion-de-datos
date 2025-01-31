@@ -48,7 +48,7 @@ Algunos ejemplos de visualización de datos que fueron surgiendo en proyectos va
 ![image](https://github.com/user-attachments/assets/82167c81-d1c4-473b-8e0e-8997a524ced9)
 
 -Diseño de filtros 2
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/5af79489-5899-40be-ad96-7116fe942a4b)
 
 
 
