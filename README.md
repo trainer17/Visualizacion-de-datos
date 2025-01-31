@@ -8,7 +8,7 @@ Algunos ejemplos de visualización de datos sacados de contexto que fueron surgi
 
 - Ajuste de un modelo no lineal para estimar parámetros
   
-![image](https://github.com/user-attachments/assets/7a68b624-29e4-4b72-a66c-7dbc025df0ac)
+![Ajuste Modelo](https://github.com/user-attachments/assets/d5e06f15-ba14-493b-93a0-12f42b446f5f)
 ![image](https://github.com/user-attachments/assets/d1c53564-8fc0-416a-acb0-4d6bd53bb583)
 
 -Histogramas para testear la normalidad del error en los datos
