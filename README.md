@@ -47,7 +47,7 @@ Algunos ejemplos de visualización de datos sacados de contexto que fueron surgi
 ![image](https://github.com/user-attachments/assets/b3c3854d-3a87-450f-a446-dfc20e83c782)
 
 -Diseño de filtros con polos y ceros
-![Polos y zeros 1](https://github.com/user-attachments/assets/32209d5d-a7ed-436d-b718-f04499f79a90)
+![image](https://github.com/user-attachments/assets/71bcd4a9-eaa1-4f36-9798-427c6bbdcafc)
 
 -Diseño de filtros 2
 ![Polos y zeros 2](https://github.com/user-attachments/assets/0a0be229-44e1-48c5-816e-73f4bbf6e8c6)
@@ -69,7 +69,7 @@ Algunos ejemplos de visualización de datos sacados de contexto que fueron surgi
 
 ![Barras](https://github.com/user-attachments/assets/f73f0f52-340e-49ba-b79a-4ffa54b2db61)
 
--Deconvolucion
+-Módulo de la funcion de transferencia de un recinto
 
 ![H(s) room](https://github.com/user-attachments/assets/a2c166b1-6b80-4c86-bdd0-a6600142a623)
 
